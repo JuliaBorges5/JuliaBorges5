@@ -12,7 +12,7 @@
 
   - [x] Sempre disposta a um novo desafio :punch:
   - [x] Proativa :chart_with_downwards_trend:
-  - [x] Facilidade em me comunicar :happy:
+  - [x] Facilidade em me comunicar :happy: 
   - [x] Rápido aprendizado :book:
   - [x] Espírito de Liderança :busts_in_silhouette: 
 

@@ -20,7 +20,7 @@
 
 ##### Onde me encontrar :eyes::
 
-<a href="https://www.linkedin.com/in/juliaborges5/">Linkedin</a>
+<a href="https://www.linkedin.com/in/juliaborges5/" target="_blank">Linkedin</a>
 
 
 

@@ -1,12 +1,12 @@
 # Olá, bem vindo(a)!
 
-   Meu nome é Júlia Borges, de nacionalidade Brasileira e atualmente curso o 3º      semestre de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara.
+   Meu nome é Júlia Borges, de nacionalidade Brasileira e atualmente curso o 4º      semestre de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara.
 
 
 
 *  :round_pushpin:  Moro em Santos, SP
 
-* :books: Focando em estudos para uma carreira em Front-end
+* :books: Focando em estudos para uma carreira em Consultoria
 
   
 
